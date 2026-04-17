@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Momina — an AI Engineer and Researcher with 3+ years of experience in Computer Vision, Large Language Models (LLMs), and Generative AI.<br><br>I specialize in building real-world AI systems that combine vision, language, and data — from research-grade models to production-ready applications.<br><br>🚀 What I can help you with:<br><br>LLM applications (Chatbots, AI Assistants, GPT-based tools)<br>Retrieval-Augmented Generation (RAG) systems with FAISS<br>Computer Vision (Object Detection, Segmentation, YOLO, ViT)<br>Generative AI (Diffusion models, GANs, synthetic data)<br>Multimodal AI (Vision + Language systems)<br>Document Intelligence & PDF Q&A systems<br>AI APIs using FastAPI, Streamlit deployment<br><br>🧠 My background:<br><br>4+ research publications (Elsevier journals)<br>Built a full AI Research Copilot (RAG system)<br>Expertise in PyTorch, HuggingFace, OpenCV, and scalable AI pipelines<br><br>💡 I don’t just write code — I design intelligent systems that solve real problems.<br><br>Let’s build something powerful together.
 
 
